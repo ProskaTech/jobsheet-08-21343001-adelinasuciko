@@ -1,5 +1,18 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama: Adelina Suciko
+
+Nim : 21343001
+
+Analisis Job-8:
+
+//program latihan 1 : int[] ages = new int[100]; array dibuat dengan panjang 100. Perulangan for digunakan untuk melakukan iterasi melalui array. array ages diisi dengan bilangan bulat. Perulangan for digunakan untuk mencetak isi array.
+
+//program latihan 2 : int[] ages = new int[100]; array dengan panjang 100. Perulangan for digunakan untuk melakukan iterasi melalui array age. Array umur diisi dengan angka 0 dengan panjang 100. System.out.print(ages[i]); Perulangan for digunakan untuk mencetak larik umur.
+
+//program latihan 3 : kode ini  membuat array string multidimensi.
+
+//program tugas 1 : Deklarasikan sebuah array String bernama hari dengan 6 elemen. Deklarasikan perulangan for yang berulang melalui larik hari. System.out.println(""+days[i]); mencetak setiap elemen dalam array.
+
+//program tugas 2 : Kode di atas adalah program yang menampilkan user angka terbesar dalam array dengan menggunakan JOption.
+
+//program tugas 3 : kode program menampilkan mencetak data dalam array.
